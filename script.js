@@ -1,4 +1,5 @@
 <script>
+console.log("Script is loaded from GitHub");
 $(document).ready(function() {
   // Array of invalid domains
   const invalidDomains = ['gmail.com', 'yahoo.com', 'hotmail.com', 'outlook.com', 'aol.com', 'msn.com', 'googlemail.com'];
