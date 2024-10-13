@@ -1,5 +1,4 @@
 <script>
-if (typeof jQuery !== 'undefined') {
 $(document).ready(function() {
   // Array of invalid domains
   const invalidDomains = ['gmail.com', 'yahoo.com', 'hotmail.com', 'outlook.com', 'aol.com', 'msn.com', 'googlemail.com'];
@@ -30,7 +29,4 @@ $(document).ready(function() {
     }
   });
 });
-  } else {
-    console.error('jQuery not loaded.');
-  }
 </script>
