@@ -1,4 +1,3 @@
-<script>
 console.log("Script is loaded from GitHub");
 $(document).ready(function() {
   // Array of invalid domains
@@ -30,4 +29,3 @@ $(document).ready(function() {
     }
   });
 });
-</script>
