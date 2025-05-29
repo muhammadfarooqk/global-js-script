@@ -1,7 +1,7 @@
 console.log("Script is loaded from GitHub");
 $(document).ready(function() {
   // Array of invalid domains
-  const invalidDomains = ['gmail.com', 'yahoo.com', 'hotmail.com', 'outlook.com', 'aol.com', 'msn.com', 'googlemail.com'];
+  const invalidDomains = ['gmail.com', 'yahoo.com', 'hotmail.com', 'outlook.com', 'aol.com', 'msn.com', 'googlemail.com', 'gazeta.pl'];
 
   // Get the submit button
   const submitBtn = $('#continue_submit');
